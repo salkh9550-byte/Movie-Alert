@@ -4,5 +4,5 @@
   "requested_date": "20261108",
   "venue_code": "AMBH",
   "venue_label": "AMB Cinemas, Sarath City Capital Mall",
-  "url_template": "https://in.bookmyshow.com/movies/hyderabad/namit-malhotras-ramayana/buytickets/ET00523224/{20261108}"
+  "url_template": "https://in.bookmyshow.com/movies/hyderabad/namit-malhotras-ramayana/buytickets/ET00523224/{date}"
 }
